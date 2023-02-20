@@ -30,7 +30,7 @@ jobs:
       - name: Deploy to Server # 第二步，rsync推文件
         uses: AEnterprise/rsync-deploy@v1.0 # 使用别人包装好的步骤镜像
         env:
-          DEPLOY_KEY: ${{ secrets.AUTO_REFRESH_BLOG_BY_GITHUB_ACTION }} # 引用配置，SSH私钥
+          DEPLOY_KEY: ${{ secrets.BLOGUPDATE2TENCENTCLOUDSERVER }} # 引用配置，SSH私钥
           ARGS: -avz --delete --exclude='*.pyc' # rsync参数，排除.pyc文件
           SERVER_PORT: "22" # SSH端口
           FOLDER: ./docs/.vuepress/dist # 要推送的文件夹，路径相对于代码仓库的根目录，视情况替换为自己的文件夹路径
