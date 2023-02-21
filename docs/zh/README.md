@@ -38,7 +38,7 @@ projects:
 #    desc: 自定义详细介绍
 #    link: https://你的自定义链接
 
-footer: 好记性不如烂笔头
+footer: 好记性不如烂笔头  |  <a href="http://beian.miit.gov.cn/" target="_blank">鲁ICP备16035461号</a>
 ---
 
 

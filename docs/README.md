@@ -38,7 +38,7 @@ projects:
 #    desc: Detailed description of this custom item
 #    link: https://link.to.your.friend
   
-footer: The palest ink is better than the best memory.
+footer: The palest ink is better than the best memory.  | <a href="http://beian.miit.gov.cn/" target="_blank">鲁ICP备16035461号</a>
 ---
 
 

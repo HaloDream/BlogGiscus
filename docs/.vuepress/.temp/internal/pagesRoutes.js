@@ -1,6 +1,6 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"y":"h","t":"home","i":"home"},["/index.html","/README.md"]],
-  ["v-184f4da6","/intro.html",{"e":"<h1> Intro Page</h1>\n<p>Hello World!</p>\n","r":{"minutes":0.02,"words":6},"y":"a","t":"Intro Page","i":"info"},["/intro","/intro.md"]],
+  ["v-184f4da6","/intro.html",{"e":"<h1> Intro Page</h1>\n<p>Hello World!</p>\n","y":"a","t":"Intro Page","i":"info"},["/intro","/intro.md"]],
   ["v-2d0ad528","/zh/",{"y":"h","t":"主页","i":"home"},["/zh/index.html","/zh/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},["/404"]],
   ["v-5bc93818","/category/",{"y":"p","t":"Category","I":0},["/category/index.html"]],
