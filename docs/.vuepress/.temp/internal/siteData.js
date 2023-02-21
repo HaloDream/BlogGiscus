@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"en-US\",\"title\":\"Ant`s Blog\",\"description\":\"The palest ink is better than the best memory.\"},\"/zh/\":{\"lang\":\"zh-CN\",\"title\":\"蚂蚁记笔记\",\"description\":\"好记性不如烂笔头\"}}}")

@@ -1,0 +1,1 @@
+import{_ as t,W as o,X as r,Y as e,Z as a}from"./framework-ab431412.js";const n={},s=e("h1",{id:"intro-page",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#intro-page","aria-hidden":"true"},"#"),a(" Intro Page")],-1),c=e("p",null,"Hello World!",-1),_=[s,c];function i(d,l){return o(),r("div",null,_)}const f=t(n,[["render",i],["__file","intro.html.vue"]]);export{f as default};

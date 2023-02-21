@@ -1,0 +1,16 @@
+export const pagesRoutes = [
+  ["v-8daa1a0e","/",{"y":"h","t":"home","i":"home"},["/index.html","/README.md"]],
+  ["v-184f4da6","/intro.html",{"e":"<h1> Intro Page</h1>\n<p>Hello World!</p>\n","r":{"minutes":0.02,"words":6},"y":"a","t":"Intro Page","i":"info"},["/intro","/intro.md"]],
+  ["v-2d0ad528","/zh/",{"y":"h","t":"主页","i":"home"},["/zh/index.html","/zh/README.md"]],
+  ["v-3706649a","/404.html",{"y":"p","t":""},["/404"]],
+  ["v-5bc93818","/category/",{"y":"p","t":"Category","I":0},["/category/index.html"]],
+  ["v-744d024e","/tag/",{"y":"p","t":"Tag","I":0},["/tag/index.html"]],
+  ["v-e52c881c","/article/",{"y":"p","t":"Articles","I":0},["/article/index.html"]],
+  ["v-154dc4c4","/star/",{"y":"p","t":"Star","I":0},["/star/index.html"]],
+  ["v-01560935","/timeline/",{"y":"p","t":"Timeline","I":0},["/timeline/index.html"]],
+  ["v-fbb94a6e","/zh/category/",{"y":"p","t":"分类","I":0},["/zh/category/index.html"]],
+  ["v-540234fd","/zh/tag/",{"y":"p","t":"标签","I":0},["/zh/tag/index.html"]],
+  ["v-54d7ff21","/zh/article/",{"y":"p","t":"文章","I":0},["/zh/article/index.html"]],
+  ["v-2c3ee7f5","/zh/star/",{"y":"p","t":"收藏","I":0},["/zh/star/index.html"]],
+  ["v-27b02be6","/zh/timeline/",{"y":"p","t":"时间轴","I":0},["/zh/timeline/index.html"]],
+]
