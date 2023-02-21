@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "Ant",
-    url: "",
+    url: "http://www.antjump.com",
   },
 
   iconAssets: "iconfont",
@@ -115,8 +115,9 @@ export default hopeTheme({
 
     comment: {
       // @ts-expect-error: You should generate and use your own comment service
-      provider: "Giscus",
-      comment: true,
+      //provider: "Giscus",
+      type: "giscus",
+      //comment: true,
       repo: "HaloDream/BlogGiscus",
       repoID: "R_kgDOI_4Jdg",
       category: "Announcements",
