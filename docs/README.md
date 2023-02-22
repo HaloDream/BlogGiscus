@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: home
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: Ant`s Blog
 tagline: The palest ink is better than the best memory.
 heroFullScreen: false

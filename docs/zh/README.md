@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: 蚂蚁记笔记
 heroFullScreen: false
 tagline: 好记性不如烂笔头
